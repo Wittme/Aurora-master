@@ -1,0 +1,12 @@
+#ignore misc BYOND files
+*.log
+*.int
+*.rsc
+*.dmb
+*.lk
+*.bak
+*.bak2
+*.backup
+data/investigate/gravity.html
+config/admins.txt
+config/admin_ranks.txt
